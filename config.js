@@ -8,8 +8,7 @@ global.confirmCode = ""
 
 global.owner = [
   ['+393791289594', 'Gabs💋', true],
- 
-] //Numero degli owner
+ ] //Numero degli owner
 
 //────────────────────────────
 
@@ -55,8 +54,8 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
-global.author = '𝐌𝐝'
+global.packname = 'Gabs- Stickers'
+global.author = 'nu scem'
 
 //────────────────────────────
 
@@ -68,7 +67,7 @@ global.multiplier = 69
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = 'Gabs- Stickers'
+global.wm = 'Gabsbot'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
