@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['+393791289594', 'Gabs💋', true],
+  ['393791289594', 'Gabs💋', true],
  ] //Numero degli owner
 
 //────────────────────────────
@@ -64,7 +64,7 @@ global.vs = '𝟐.𝟐'
 global.nomebot = 'Gabs'
 
 global.multiplier = 69 
-global.maxwarn = '4' 
+global.maxwarn = '3' 
 //────────────────────────────
 
 global.wm = 'Gabsbot'
